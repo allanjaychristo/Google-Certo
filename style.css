@@ -1,0 +1,12 @@
+.titulo{
+    text-align: center;
+    font-family: 'Protect Sans', sans-serif;
+}
+
+.titulo span {
+    font-size: 90px;
+}
+
+.navbarjustify-content{
+    align-items: center;
+}
